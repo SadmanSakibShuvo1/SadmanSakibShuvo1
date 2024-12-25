@@ -1,1 +1,10 @@
-![Snake animation](https://github.com/SadmanSakibShuvo1/SadmanSakibShuvo1/blob/output/github-contribution-grid-snake.svg)
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="150">
+  <rect width="800" height="150" fill="#ffffff"/>
+  <path d="M10 10 L100 10 L100 50 L10 50 Z" fill="#00ff00">
+    <animate attributeName="x" from="0" to="200" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <text x="10" y="90" font-size="20" fill="#333333">
+    A Snake Eating My Contributions!
+  </text>
+</svg>
+
