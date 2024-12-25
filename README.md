@@ -171,7 +171,7 @@
 </p>
 --->
 
- ### <picture> <img src = "https://github.com/SadmanSakibShuvo1/SadmanSakibShuvo1/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ ### <picture> <img src = "https://github.com/SadmanSakibShuvo1/SadmanSakibShuvo1/blob/main/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
   &emsp;
